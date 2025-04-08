@@ -1,3 +1,3 @@
 # website-one-tutorial
- this is just for a demo. -> click link below
+ this is just for a demo. And its not responsive -> click link below
  # https://cerongithub.github.io/website-one-tutorial/
